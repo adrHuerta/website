@@ -1,0 +1,25 @@
+baseurl = "/"
+title = "Not an ordinary trend"
+author = "Adrian Huerta"
+contentdir = "content"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-black-and-light-theme"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Not an ordinary trend"
+  disableWebFonts = false
+  
+[[menu.main]]
+    name = "About"
+    url  = "/about/"
+[[menu.main]]
+    name = "Research"
+    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+[[menu.main]]
+    name = "Publications"
+    url  = "https://www.researchgate.net/profile/Adrian_Huerta/research"
