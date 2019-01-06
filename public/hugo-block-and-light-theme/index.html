@@ -20,10 +20,10 @@
     <title>
       
       
-         About me 
+         Black &amp; Light Demo 
       
     </title>
-    <link rel="canonical" href="/about/">
+    <link rel="canonical" href="/hugo-block-and-light-theme/">
 
     <style>
   * {
@@ -406,123 +406,95 @@
 
 
 <section id=content>
-  <h1> About me </h1>
+  <h1> Black &amp; Light Demo </h1>
 
+  
+    <div id=sub-header>
+      January 2017 · 1 minute read
+    </div>
   
 
   <div class="entry-content">
-    <style>
-  .project {
-    border-bottom: 1px solid #ccc;
-    padding: 2em 0;
-  }
+    
 
-  #content .project h2 {
-    font-size: 1.9em;
-  }
+<p><a href="https://github.com/davidhampgonsalves/hugo-black-and-light-theme">Black and Light</a> is a high contrast, performant and Javascript-free theme.</p>
 
-  #content .project .header {
-    font-size: 1.9em;
-    margin-bottom: 0.8em;
-  }
+<h2 id="features">Features</h2>
 
-  #content .project .header :first-child {
-    margin-right: 0.5em;
-  }
+<ul>
+<li>Loads in a single request (with web-fonts disabled)</li>
+<li>100 / 100 on Google Page Speed test (100 / 100 on mobile with web-fonts disabled)</li>
+<li>Scriptless (unless you enable Google Analyitcs)</li>
+<li>Styles inlined in head</li>
+<li>High Contrast</li>
+</ul>
 
-  #content .project .header .date {
-    font-size: 0.8em;
-    color: #555;
-  }
+<h2 id="style-demo">Style Demo</h2>
 
-  .container {
-    display: flex;
-  }
+<h1 id="h1-heading">h1 Heading</h1>
 
-  .content {
-    flex-grow: 1;
-  }
+<h2 id="h2-heading">h2 Heading</h2>
 
-  .headline {
-    font-size: 1.1em;
-    margin-bottom: 1em;
-  }
+<h3 id="h3-heading">h3 Heading</h3>
 
-  .container .images {
-    margin-left: 1em;
-    flex: 0 0 8em;
-  }
+<h4 id="h4-heading">h4 Heading</h4>
 
-  .container .images-lg {
-    margin-left: 1em;
-    flex: 0 0 22em;
-  }
+<h5 id="h5-heading">h5 Heading</h5>
 
-  .container.image-row {
-    flex-direction: column;
-  }
+<h6 id="h6-heading">h6 Heading</h6>
 
-  .container.image-row .images {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 1em 0 0;
-    flex-basis: initial;
-  }
+<hr />
 
+<p><strong>This is bold text</strong></p>
 
-  .container .images img {
-    margin: 0;
-    width: 100%;
-  }
+<p><strong>This is bold text</strong></p>
 
-  .container .images .image {
-    flex: 0 0 40%;
-  }
+<p><em>This is italic text</em></p>
 
-  .container.image-row .images img {
-    width: initial;
-    margin: 0;
-  }
+<p><em>This is italic text</em></p>
 
-  .container .links {
-    margin-top: 1em;
-    font-weight: bold;
-  }
+<p><del>Deleted text</del></p>
 
-  .container .links a {
-    font-weight: normal;
-  }
-</style>
+<blockquote>
+<p>Block quotes are
+written like so.</p>
 
-<div class=project>
-  <h2 class=header>
-    <span> Adrian Huerta </span>
-  </h2>
-  <div class=container>
-    <div class=content>
-      <div class=headline>
-        A meteorologist by training, I always very interested in climatology. Starting with In-Situ observations. I quickly moved to hydrology. So by now my research interests are split on three fields.
-      </div>
-      <p>
-        80% nerd since 2014, I enjoy to read research papers and to code. I prefer the method rather than the result, so I always searching for new things. The rest (20%), I like to watch movies and to make excercises.
-        If you are interested/confused in what I do or I show here, do not hesitate and let me know, I wil be happy to know/help you.
-      </p>
+<p>They can span multiple paragraphs,
+if you like.</p>
+</blockquote>
 
-      <div class=links>
-        Links:
-                <a href="https://github.com/adrHuerta/CV/raw/master/ahuerta_cv.pdf">My CV</a>,
-        <a href="https://www.researchgate.net/profile/Adrian_Huerta">ResearchGate</a>,
-        <a href="https://github.com/adrhuerta">GitHub</a>
+<p>Some text, and some <code>code</code> and then a nice plain <a href="https://github.com/davidhampgonsalves/davidhampgonsalves.com-hugo" title="title text!">link with title</a>.</p>
 
-      </div>
-    </div>
-    <div class=images-lg>
-      <img src="/images/about/me.jpg" />
-    </div>
-  </div>
-</div>
+<p>and then</p>
 
+<ul>
+<li>Create a list by starting a line with <code>+</code>, <code>-</code>, or <code>*</code></li>
+<li>Sub-lists are made by indenting 2 spaces:
+
+<ul>
+<li>Marker character change forces new list start:</li>
+<li>Ac tristique libero volutpat at</li>
+</ul></li>
+<li>Very easy!</li>
+</ul>
+
+<p>vs.</p>
+
+<ol>
+<li>Lorem ipsum dolor sit amet</li>
+<li>Consectetur adipiscing elit</li>
+<li>Integer molestie lorem at massa</li>
+</ol>
+
+<h2 id="code">Code</h2>
+
+<p>Inline <code>code</code></p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="font-weight:bold">var</span> foo = <span style="font-weight:bold">function</span> (bar) {
+  <span style="font-weight:bold">return</span> bar++;
+};
+
+console.log(foo(5));
+</code></pre></div>
   </div>
 
   <div id=links>

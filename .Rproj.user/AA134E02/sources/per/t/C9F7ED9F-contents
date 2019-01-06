@@ -2,10 +2,12 @@ baseurl = "/"
 title = "Not an ordinary trend"
 author = "Adrian Huerta"
 contentdir = "content"
+#contentdir = "content/post"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-black-and-light-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+FootnoteReturnLinkContents = "↩"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
@@ -19,7 +21,7 @@ pygmentscodefences  = true
     url  = "/about/"
 [[menu.main]]
     name = "Research"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    url  = "/research/"
 [[menu.main]]
     name = "Publications"
     url  = "https://www.researchgate.net/profile/Adrian_Huerta/research"

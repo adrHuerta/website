@@ -6,19 +6,10 @@
     <description>Recent content on Not an ordinary trend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About me</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>.project { border-bottom: 1px solid #ccc; padding: 2em 0; } #content .project h2 { font-size: 1.9em; } #content .project .header { font-size: 1.9em; margin-bottom: 0.8em; } #content .project .header :first-child { margin-right: 0.5em; } #content .project .header .date { font-size: 0.8em; color: #555; } .container { display: flex; } .content { flex-grow: 1; } .headline { font-size: 1.1em; margin-bottom: 1em; } .container .images { margin-left: 1em; flex: 0 0 8em; } .</description>
-    </item>
     
     <item>
       <title>Black &amp; Light Demo</title>
@@ -63,7 +54,7 @@ This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
-      <title>Getting Started with Hugo</title>
+      <title>Getting Started with Adrian</title>
       <link>/post/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
@@ -85,6 +76,24 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>.project { border-bottom: 1px solid #ccc; padding: 2em 0; } #content .project h2 { font-size: 1.9em; } #content .project .header { font-size: 1.9em; margin-bottom: 0.8em; } #content .project .header :first-child { margin-right: 0.5em; } #content .project .header .date { font-size: 0.8em; color: #555; } .container { display: flex; } .content { flex-grow: 1; } .headline { font-size: 1.1em; margin-bottom: 1em; } .container .images { margin-left: 1em; flex: 0 0 8em; } .</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>.project { border-bottom: 1px solid #ccc; padding: 2em 0; } #content .project h2 { font-size: 1.6em; } #content .project .header { font-size: 1.5em; margin-bottom: 0.8em; } #content .project .header :first-child { margin-right: 0.5em; } #content .project .header .date { font-size: 0.8em; color: #555; } .container { display: flex; } .content { flex-grow: 1; } .headline { font-size: 1.1em; margin-bottom: 1em; } .container .images { margin-left: 1em; flex: 0 0 8em; } .</description>
     </item>
     
   </channel>

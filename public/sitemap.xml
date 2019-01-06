@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/hugo-block-and-light-theme/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
@@ -38,18 +33,22 @@
   </url>
   
   <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
+    <loc>/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -61,13 +60,13 @@
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -80,7 +79,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,6 +111,10 @@
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
   </url>
   
   <url>
