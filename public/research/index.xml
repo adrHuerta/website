@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Not an ordinary trend</title>
+    <link>/research/</link>
+    <description>Recent content in Researches on Not an ordinary trend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>.project { border-bottom: 1px solid #ccc; padding: 2em 0; } #content .project h2 { font-size: 1.6em; } #content .project .header { font-size: 1.5em; margin-bottom: 0.8em; } #content .project .header :first-child { margin-right: 0.5em; } #content .project .header .date { font-size: 0.8em; color: #555; } .container { display: flex; } .content { flex-grow: 1; } .headline { font-size: 1.1em; margin-bottom: 1em; } .container .images { margin-left: 1em; flex: 0 0 8em; } .</description>
+    </item>
+    
+  </channel>
+</rss>

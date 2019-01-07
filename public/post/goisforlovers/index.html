@@ -713,10 +713,12 @@ notoc: true
 parameters, which are values which will be available to you in chrome.</p>
 
 <p>For instance, you might declare:</p>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml">params:
-  CopyrightHTML: <span style="font-style:italic">&#34;Copyright &amp;#xA9; 2013 John Doe. All Rights Reserved.&#34;</span>
-  TwitterUser: <span style="font-style:italic">&#34;spf13&#34;</span>
-  SidebarRecentLimit: 5</code></pre></div>
+<div class="highlight" style="background: #ffffff"><pre style="line-height: 125%">params:
+  CopyrightHTML: <span style="font-style: italic">&quot;Copyright</span> <span style="font-style: italic">©</span> <span style="font-style: italic">2013</span> <span style="font-style: italic">John</span> <span style="font-style: italic">Doe.</span> <span style="font-style: italic">All</span> <span style="font-style: italic">Rights</span> <span style="font-style: italic">Reserved.&quot;</span>
+  TwitterUser: <span style="font-style: italic">&quot;spf13&quot;</span>
+  SidebarRecentLimit: 5
+</pre></div>
+
 <p>Within a footer layout, you might then declare a <code>&lt;footer&gt;</code> which is only
 provided if the <code>CopyrightHTML</code> parameter is provided, and if it is given,
 you would declare it to be HTML-safe, so that the HTML entity is not escaped
