@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1871908072",
+    "hash" : "2883553528",
     "id" : "5A57AD40",
-    "lastKnownWriteTime" : 1546805332,
-    "last_content_update" : 1546805332583,
+    "lastKnownWriteTime" : 1546815460,
+    "last_content_update" : 1546815460090,
     "path" : "~/Documents/Repos/website/content/research/index.md",
     "project_path" : "content/research/index.md",
     "properties" : {
-        "cursorPosition" : "145,21",
-        "scrollLine" : "136"
+        "cursorPosition" : "174,409",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,

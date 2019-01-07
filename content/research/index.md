@@ -172,7 +172,7 @@ title = "Research"
         Development and comparison of three approaches.
       </div>
       <p>
-        The CatGenie is an self cleaning cat litter box. It locks users into using its own cleaning solution via RFID tags embeded in the carterages. I reverse engeneered the communication method and wrote code to emulate it using an Arduino.
+        Drought is a complex phenomen which plays a important role in the impacto on natural systems and socioeconomic activities, such as reductions in streamflow, crop failures, forest decay or restrictions on urban and irrigation water supplies. Therefore is important to know/understad its risk. Even thoug in Peru there are several institution which produce hazard maps, they tend not no be statisically 
       </p>
 
       <div class=links>
@@ -194,18 +194,14 @@ title = "Research"
   <div class=container>
     <div class=content>
       <div class=headline>
-        Gridded precipitation dataset at daily scale and 0.1º resolution - PISCOp v2.1
+        Gridded precipitation dataset at daily scale (1981-Present) and 0.1º resolution - PISCOp v2.1
       </div>
       <p>
-        A grow clock is a simple visual indicator of day and night. The goal is to convince them to sleep till a humane hour.
-      </p>
-
-      <p>
-        My version was made to be recyclable, since these devices are only useful for the short time before children can read a traditional clock.
+       The last version of PISCOp finaly has been realased. PISCOp is a merged (observed precipitacion with satellite and other gridded dataset) product, and represent the first daily precipitation gridded database for Peru. The main maintener is my friend/colleague <a href="https://csaybar.github.io/">C. Aybar</a> (95% nerd) and he has a interested website related to <a href="https://piscop.netlify.com/">PISCOp</a>.
       </p>
 
       <div class=links>
-        Links: <a href="//github.com/davidhampgonsalves/grow-clock">Github</a>, <a href="/arduino-grow-clock/">Blog Post</a>
+        Links: <a href="ftp://publi_dgh2:123456@ftp.senamhi.gob.pe/PISCOp_V2.1_beta/">Dataset</a>, <a href="https://piscop.netlify.com/">PISCOp</a>
       </div>
     </div>
     <div class=images-lg>
