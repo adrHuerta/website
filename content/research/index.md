@@ -101,11 +101,11 @@ title = "Research"
       </p>
 
       <div class=links>
-        Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ9dI2iY58HHvbnDZGuXQ4zEcxRm-UmBEfLd-1-DlD_1KEvnX0rfyYW9zMaRZgMUYFcwBm9Gj2a4lv2/pub?start=false&loop=false&delayms=3000&slide=id.p1">Google Slides</a>
+        Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ9dI2iY58HHvbnDZGuXQ4zEcxRm-UmBEfLd-1-DlD_1KEvnX0rfyYW9zMaRZgMUYFcwBm9Gj2a4lv2/pub?start=false&loop=false&delayms=3000">Google Slides</a>
       </div>
     </div>
     <div class=images-lg>
-      <img src="/images/projects/catgenie.gif" />
+      <img src="/images/about/me.jpg" />
     </div>
   </div>
 </div>
@@ -122,15 +122,17 @@ title = "Research"
          Gridded temperature dataset at daily scale (1981-2016) and 0.1º resolution - PISCOt v1.1
       </div>
       <p>
-       The last version of PISCOt finaly has been realased. PISCOt is a merged (observed temperature with satellite land surface temperature) product, and represent the first daily air temperature gridded database for Peru. 
+The last version of PISCOt finally has been released. PISCOt is a merged (observed temperature with land surface temperature (MODIS) and other topografic dataset) product, and represent the first daily air temperature gridded database for Peru.
        </p>
 
       <div class=links>
-        Links: <a href="https://drive.google.com/open?id=1eGqhmJXBJfFSzUFz2RVqtbKIlOphpkcs">Dataset</a>, <a href="https://drive.google.com/open?id=1lyNv895A-t_R_t3Q_tkUH3YQay0Te6Zs">Intro</a>
+        Links: <a href="https://drive.google.com/open?id=1eGqhmJXBJfFSzUFz2RVqtbKIlOphpkcs">Dataset</a>, 
+        <a href="https://drive.google.com/open?id=1lyNv895A-t_R_t3Q_tkUH3YQay0Te6Zs">Report</a>,
+        <a href="https://github.com/adrHuerta/PISCOt">GitHub</a>
       </div>
     </div>
     <div class=images-lg>
-      <img src="/images/projects/catgenie.gif" />
+      <img src="/images/research/piscot.png" style="width:165px;"/>
     </div>
   </div>
 </div>
@@ -144,15 +146,15 @@ title = "Research"
   <div class=container>
     <div class=content>
       <div class=headline>
-         A drought characterization in non-El Niño events and its links to large-scale factors 
-      </div>
+         A drought characterization in non-El Niño events and its links to large-scale patterns. 
+         </div>
       <p>
-        It is know that drought occurrences are strongly related to El Niño events in the Peruvian Andes, however there are other drought events which can not be explained by El Niño. So this work tries to   
-      </p>
+        It is know that drought occurrences are strongly related to El Niño events in the Peruvian Andes, however there are other drought events which can not be explained by El Niño. So this work tries to         
+        </p>
 
       <div class=links>
-        Links: <a href="/">Github</a>, <a href="/reverse-engineering-cat-genie-120-drm/">Blog Post</a>
-      </div>
+        Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vSz-ZcT80E63WjXxmZOxjJDZNbXgG_sgYJH2nNLI0NgZkVhTT9kfrz26pDxUnwF1LZh7CPGyVIb_OpM/pub?start=false&loop=false&delayms=3000">Google Slides</a>
+        </div>
     </div>
     <div class=images-lg>
       <img src="/images/projects/catgenie.gif" />
@@ -163,24 +165,24 @@ title = "Research"
 
 <div class=project>
   <h2 class=header>
-    <span>Drough hazard maps for Peru </span>
+    <span>Drought hazard analysis for Peru </span>
     <span class=date>June 2018</span>
   </h2>
   <div class=container>
     <div class=content>
       <div class=headline>
         Development and comparison of three approaches.
-      </div>
+        </div>
       <p>
-        Drought is a complex phenomen which plays a important role in the impacto on natural systems and socioeconomic activities, such as reductions in streamflow, crop failures, forest decay or restrictions on urban and irrigation water supplies. Therefore is important to know/understad its risk. Even thoug in Peru there are several institution which produce hazard maps, they tend not no be statisically 
-      </p>
+        Droughts has multiple impacts on natural systems and socioeconomic sectors and it may increase in the future due to the climate variabilty and change. In order to understand its impacts, drought risk managament is particulary important. Therefore, here it is assessed three approaches of drought (by different index) hazards in Peru. In the definition of hazard, the probabily it is inherent , however some hazard maps does not envolve any statistical prodecure. The overall results demonstrate the  uncertainty related to the understanding of potential risk of drought in Peru. 
+        </p>
 
-      <div class=links>
-        Links: <a href="/">Github</a>, <a href="/reverse-engineering-cat-genie-120-drm/">Blog Post</a>
+       <div class=links>
+        Links: <a href="https://docs.google.com/presentation/d/e/2PACX-1vTDFFTFDp2vE6Bk88MsYgmzLLyf2fTUe27iDosz9xbuK2jSqACeX-qlUMSq76hJ2DMiBZsYqiR8bEsQ/pub?start=false&loop=false&delayms=3000">Google Slides</a>
       </div>
     </div>
     <div class=images-lg>
-      <img src="/images/projects/catgenie.gif" />
+      <img src="/images/research/hd.gif"/>
     </div>
   </div>
 </div>
@@ -195,9 +197,9 @@ title = "Research"
     <div class=content>
       <div class=headline>
         Gridded precipitation dataset at daily scale (1981-Present) and 0.1º resolution - PISCOp v2.1
-      </div>
+        </div>
       <p>
-       The last version of PISCOp finaly has been realased. PISCOp is a merged (observed precipitacion with satellite and other gridded dataset) product, and represent the first daily precipitation gridded database for Peru. PISCOp involve many cool people for ~5 years, however, the main maintener is my friend/colleague <a href="https://csaybar.github.io/">C. Aybar</a> (95% nerd) and he has a interested website related to <a href="https://piscop.netlify.com/">PISCOp</a>.
+       The last version of PISCOp finally has been released. PISCOp is a merged (observed precipitacion with satellite and other gridded dataset) product, and represent the first daily precipitation gridded database for Peru. PISCOp involved many cool people for ~5 years, however, the main maintener is my friend / colleague <a href="https://csaybar.github.io/">C. Aybar</a> (95% nerd) and he has a interested website related to <a href="https://piscop.netlify.com/">PISCOp</a>.
       </p>
 
       <div class=links>
@@ -205,7 +207,7 @@ title = "Research"
       </div>
     </div>
     <div class=images-lg>
-      <img src="/images/projects/grow-clock.gif" />
+      <img src="/images/research/piscop.png" style="width:180px;" />
     </div>
   </div>
 </div>
@@ -213,8 +215,4 @@ title = "Research"
 
 # Archived
 
-- [Speed Reading Bookmarklet](/spritz-like-rsvp-reader-bookmarklet/)
-- [Hour Weather](//hourweather.herokuapp.com/)
-- [Yule Log](/html5-canvas-yule-log/)
-- [Hourly Weather](//play.google.com/store/apps/details?id=com.hourlyweather&hl=en)
-- [Notefeeder](/notefeeder/)
+- [dekadal precipitation monitoring - MIDAS](https://github.com/adrHuerta/MIDAS)

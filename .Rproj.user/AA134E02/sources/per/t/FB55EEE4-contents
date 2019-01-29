@@ -93,11 +93,10 @@ title = "About me"
   <div class=container>
     <div class=content>
       <div class=headline>
-        A meteorologist by training, I always very interested in climatology. Starting with In-Situ observations. I quickly moved to hydrology. So by now my research interests are split on three fields.
+         A meteorologist by training, I always very interested in climatology. Starting with quality control and homogenization. I quickly moved to hydrology. So by now my research interests are split on two fields.
       </div>
       <p>
-        80% nerd since 2014, I enjoy to read research papers and to code. I prefer the method rather than the result, so I always searching for new things. The rest (20%), I like to watch movies and to make excercises.
-        If you are interested/confused in what I do or I show here, do not hesitate and let me know, I wil be happy to know/help you.
+        80% nerd since 2014, I enjoy to read research papers and to code. I prefer the method rather than the result, so I always searching for new things. The rest (20%), I like to watch movies, to make excercises and to travel. If you are interested / confused in what I do or I show here, do not hesitate and let me know, I wil be happy to know / help you.
       </p>
 
       <div class=links>
