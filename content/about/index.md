@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "About"
 +++
 
 <style>
@@ -93,10 +93,10 @@ title = "About me"
   <div class=container>
     <div class=content>
       <div class=headline>
-         A meteorologist by training, I always very interested in climatology. Starting with quality control and homogenization. I quickly moved to hydrology. So by now my research interests are split on two fields.
+A meteorologist by training, I always very interested in climatology. Starting with quality control and homogenization. I quickly moved to hydrology. So by now, my research interests are split into two fields.
       </div>
       <p>
-        80% nerd since 2014, I enjoy to read research papers and to code. I prefer the method rather than the result, so I always searching for new things. The rest (20%), I like to watch movies, to make excercises and to travel. If you are interested / confused in what I do or I show here, do not hesitate and let me know, I wil be happy to know / help you.
+        80% nerd since 2014, I enjoy to read research papers and to code. I prefer the method rather than the result, so I always searching for new things. The rest (20%), I like to watch movies, to make exercises and to travel. If you are interested/confused in what I do or I show here, do not hesitate and let me know, I will be happy to know/help you.
       </p>
 
       <div class=links>
@@ -113,3 +113,14 @@ title = "About me"
   </div>
 </div>
 
+
+<div class=project>
+  <h2 class=header>
+    <span> The blog </span>
+  </h2>
+  <div class=container>
+    <div class=content>
+      <div class=headline>
+"Not an ordinary trend" in my personal blog about science* and other ideas related to it. I wanted to start it many years ago since I noticed some like <a href="http://menugget.blogspot.com/">me nugget</a> and <a href="http://variable-variability.blogspot.com/">Variable Variability</a>. "Not an ordinary trend" may make you think about fashion, however, it is more related to the statistic method to compute <a  href="https://en.wikipedia.org/wiki/Linear_trend_estimation">trends</a> and is "not ordinary" because trend analysis is not only about the applied technique, but rather about the data.
+      </div>
+      <p>
